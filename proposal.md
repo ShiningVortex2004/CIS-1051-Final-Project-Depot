@@ -2,11 +2,11 @@
 
 ## What will (likely) be the title of your project?
 
-_Tetris with Monika_
+_Talking Liners with Monika_
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-_A submod for Monika After Story that allows you to play Tetris with Monika_
+_A submod for Monika After Story that allows Monika to lecture you about various ocean liners throughout history, from the pioneers of the late 19th century to household names in the early and late 20th centuries_
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
