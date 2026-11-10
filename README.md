@@ -5,7 +5,7 @@
 <p align="center">
 	<!-- If you have a submod banner, you can use an image here. -->
 	<!-- <img src="doc/Banner.png" width="360" height="200"> -->
-	<h1 align="center">📂 MAS Submod Template 📂</h1>
+	<h1 align="center">📂 Talking Liners with Monika 📂</h1>
 	<h3 align="center">Boilerplate for you to set up a submod project quickly~</h3>
 </p>
 
